@@ -353,10 +353,8 @@ section{
 .header{
 	background-image: url(../images/1.jpg);
 
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	width: 50%;
+
+
 
 	height: 100vh;
 	position: relative;
