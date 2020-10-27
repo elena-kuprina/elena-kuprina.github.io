@@ -352,18 +352,13 @@ section{
 /*Home page*/
 .header{
 	background-image: url(../images/grass.jpg);
-/*	!*position: center;*!*/
-/*	position: center;*/
-
-
-/*min-width: 450;*/
-/*	height: 300px;*/
-/*	min-height: 900px;*/
-
 
 	height: 100vh;
 	position: relative;
 	min-height: 659px;
+
+
+
 }
 
 .intro-box{

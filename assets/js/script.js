@@ -67,6 +67,10 @@ $(document).ready(function() {
 		loop:true,
 		items: 1
 	})
+	$('#expert-slider3').owlCarousel({
+		loop:true,
+		items: 1
+	})
 
  	// height
 
