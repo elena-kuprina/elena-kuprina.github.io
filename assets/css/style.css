@@ -351,14 +351,16 @@ section{
 
 /*Home page*/
 .header{
-	background-image: url(../images/1.jpg);
+	background-image: url(../images/grass.jpg);
+	/*position: center;*/
+	position: center;
 
-	max-width: 100%;
 
 
-	position: relative;
-	height: 400px;
-	min-height: 659px;
+	height: 300px;
+	min-height: 700px;
+
+
 }
 
 .intro-box{
