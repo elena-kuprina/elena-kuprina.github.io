@@ -72,6 +72,15 @@ $(document).ready(function() {
 		items: 1
 	})
 
+	$('#expert-slider4').owlCarousel({
+		loop:true,
+		items: 1
+	})
+
+	$('#expert-slider5').owlCarousel({
+		loop:true,
+		items: 1
+	})
  	// height
 
  	var h = $('.expert').height();

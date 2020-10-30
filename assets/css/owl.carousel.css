@@ -58,7 +58,21 @@
   /* position relative and z-index fix webkit rendering fonts issue */
   position: relative;
   z-index: 1;
+  margin: 0 auto;
+  position: center;
 }
+
+.owl-carousel2 {
+  display: none;
+  -webkit-tap-highlight-color: transparent;
+  /* position relative and z-index fix webkit rendering fonts issue */
+  position: center;
+  z-index: 1;
+  width: 50%;
+  margin: 0 auto;
+}
+
+
 .owl-carousel .owl-stage {
   position: relative;
   -ms-touch-action: pan-Y;
