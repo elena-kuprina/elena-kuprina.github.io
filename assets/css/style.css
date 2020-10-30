@@ -396,7 +396,8 @@ section{
 	background-color: #f8f8f8;
 }
 .about img{
-	margin: 30px auto;
+	margin: auto;
+	/*margin: 30px auto; */
 	display: block;
 }
 .about span{
