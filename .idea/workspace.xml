@@ -20,16 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fbf9dc9-caf7-4843-8637-5415ca5c98d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/5.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/6.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/owl.carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/owl.carousel.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/pic5.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +90,7 @@
       <workItem from="1603549401836" duration="561000" />
       <workItem from="1603565692834" duration="1180000" />
       <workItem from="1603818520426" duration="4923000" />
-      <workItem from="1604047948854" duration="1350000" />
+      <workItem from="1604047948854" duration="1742000" />
     </task>
     <servers />
   </component>
