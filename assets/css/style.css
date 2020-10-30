@@ -56,7 +56,7 @@ section{
 	background-color: #62aa94;
 	position: absolute;
 	top: 81px;
-	left: calc(50% - 20px);
+	/*left: calc(50% - 20px);*/
 }
 
 
@@ -353,7 +353,7 @@ section{
 .header{
 	background-image: url(../images/grass.jpg);
 
-	height: 100vh;
+	height: 80vh;
 	position: relative;
 	min-height: 659px;
 
@@ -362,10 +362,13 @@ section{
 }
 
 .intro-box{
-	height: 100vh;
+	/*height: 100vh;*/
 	display: table;
 	text-align: center;
-	width: 100%;
+	/*width: 80%;*/
+
+	width: 90%;
+
 }
 .intro{
 	display: table-cell;
@@ -396,8 +399,8 @@ section{
 	background-color: #f8f8f8;
 }
 .about img{
-	margin: auto;
-	/*margin: 30px auto; */
+
+	margin: 30px auto;
 	display: block;
 }
 .about span{
